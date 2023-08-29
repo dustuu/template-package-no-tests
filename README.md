@@ -7,4 +7,4 @@ Both badges will be broken because there are no releases:
 
 [![VPM Package Version](https://img.shields.io/vpm/v/com.vrchat.demo-template?repository_url=https%3A%2F%2Fdustuu.github.io%2Ftemplate-package-no-tests%2Findex.json)](https://dustuu.github.io/template-package-no-tests)
 
-[![Code Coverage](https://dustuu.github.io/template-package-unconfigured/coverage/badge_linecoverage.svg)](https://dustuu.github.io/template-package-no-tests/coverage)
+[![Code Coverage](https://dustuu.github.io/template-package-no-tests/coverage/badge_linecoverage.svg)](https://dustuu.github.io/template-package-no-tests/coverage)
